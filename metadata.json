@@ -1,0 +1,5 @@
+{
+  "name": "PrintPerfect AI",
+  "description": "Intelligent PDF preflighting and analysis for print production. Detects layout issues, bleed violations, and content errors before you print.",
+  "requestFramePermissions": []
+}
